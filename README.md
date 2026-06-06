@@ -1,16 +1,45 @@
-# React + Vite
+# 🌤️ Weather Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern weather application built with **React + Vite** that displays real-time weather data and a 5-day forecast using the OpenWeather API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+👉 https://mars-earth.github.io/weather-dashboard/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Search weather by city
+- 🌡️ Real-time temperature (°C)
+- 💧 Humidity and wind speed
+- 🕒 Local time for selected city
+- 🌤️ Dynamic weather icons (based on conditions)
+- 📅 5-day weather forecast
+- ⚡ Loading indicator
+- ❌ Error handling (city not found)
+- 🎨 Modern responsive UI (desktop + mobile)
+- 🍞 Toast notifications for errors
+- 📱 Fully responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- OpenWeather API
+- React Icons
+- CSS (custom styling)
+
+---
+
+## 👨‍💻 Author
+Created by "mars-earth".
+Full-stack developer
+
+## 📄 License
+This project is for portfolio/demo purposes.
